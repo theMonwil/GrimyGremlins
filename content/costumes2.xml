@@ -1,0 +1,5 @@
+<costumes anm2root="gfx/characters/">
+<!-- -->
+	<costume id="1" anm2path="rook_head.anm2" type="passive" hasSkinAlt="true" />
+	<costume anm2path="rook_head.anm2" type="none" hasSkinAlt="true" />
+</costumes>

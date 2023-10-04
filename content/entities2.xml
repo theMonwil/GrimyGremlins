@@ -1,0 +1,5 @@
+<entities anm2root="gfx/" version="5">  
+    <entity name="Artificer's Homunculus" id="3" anm2path="arti_homunculus.anm2" baseHP="0" boss="0" champion="0" collisionDamage="3" collisionInterval="14" collisionMass="6" collisionRadius="9" friction="1" numGridCollisionPoints="12" shadowSize="4" stageHP="0">
+        <gibs amount="4" blood="2" bone="0" eye="2" gut="0" large="0" />
+    </entity>
+</entities>

@@ -1,0 +1,20 @@
+<items gfxroot="gfx/items/" version="1">
+	<passive id="1" name="Rook's Soul" description="REPORT THIS TO GRIMY GREMLINS DEVS" gfx="The_Mogus.png" quality="5" tags="quest noeden" hidden="true"/>
+	<passive id="2" name="Scrap's Soul" description="REPORT THIS TO GRIMY GREMLINS DEVS" gfx="The_Mogus.png" quality="5" tags="quest noeden" hidden="true" persistent="true"/>
+	<passive id="3" name="Conrad's Soul" description="REPORT THIS TO GRIMY GREMLINS DEVS" gfx="The_Mogus.png" quality="5" tags="quest noeden" hidden="true"/>
+	<passive id="4" name="Reborn's Soul" description="REPORT THIS TO GRIMY GREMLINS DEVS" gfx="The_Mogus.png" quality="5" tags="quest noeden" hidden="true" persistent="true"/>
+
+	<active id="9" name="Castle" description="Switcheroo" gfx="The_Mogus.png" quality="5" maxcharges="150" chargetype="timed" tags="noeden" hidden="true"/>
+
+	<active name="Conjure" description="Rise!" gfx="The_Mogus.png" quality="5" maxcharges="30" chargetype="timed" tags="noeden" hidden="true"/>
+	<active name="Congregate" description="Gather together!" gfx="The_Mogus.png" quality="5" maxcharges="90" chargetype="timed" tags="noeden" hidden="true"/>
+	<active name="Conquer" description="Go forth!" gfx="The_Mogus.png" quality="5" maxcharges="45" chargetype="timed" tags="noeden" hidden="true"/>
+
+	<passive name="Verdant Seed" description="Better Rebirth" gfx="The_Mogus.png" quality="0" tags="quest noeden" hidden="true"/>
+	<passive name="Verdant Seeds" description="Better Rebirth" gfx="The_Mogus.png" quality="0" tags="quest noeden" hidden="true"/>
+
+	<passive name="Withered Seed" description="The time has passed" gfx="The_Mogus.png" quality="0" tags="quest noeden" hidden="true"/>
+	<passive name="Withered Seeds" description="The time has passed" gfx="The_Mogus.png" quality="0" tags="quest noeden" hidden="true"/>
+
+	<active name="Rebirth" description="Make it count" gfx="The_Mogus.png" quality="5" tags="quest noeden" hidden="true" persistent="true" cache="weapon"/>
+</items>

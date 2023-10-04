@@ -1,0 +1,41 @@
+<players root="gfx/characters/costumes/"
+         portraitroot="gfx/ui/boss/"
+         nameimageroot="gfx/ui/boss/">
+
+        <player name="Horse"
+          hidden="true"
+          skin="Character_001_Isaac.png" hp="6"
+          nameimage="playername_isaac.png"
+          portrait="playerportrait_isaac.png"
+          skinColor="-1"
+          birthright="Yeast up"/>
+
+        <player name="Rook"
+          skin="character_rook.png" costumeSuffix="apollyon" hp="4" armor="4"
+          nameimage="playername_rook.png"
+          portrait="playerportrait_rook.png"
+          skinColor="0"
+          birthright="Dual slam"/>
+
+        <player name="Scrap"
+          skin="Character_001_Isaac.png" hp="6"
+          nameimage="playername_scrap.png"
+          portrait="playerportrait_scrap.png"
+          skinColor="-1"
+          birthright="Extra options"/>
+
+        <player name="Conrad"
+          skin="Character_001_Isaac.png" hp="6"
+          nameimage="playername_conrad.png"
+          portrait="playerportrait_conrad.png"
+          skinColor="-1"
+          card="9"
+          birthright="Durability up"/>
+
+        <player name="Reborn"
+          skin="Character_001_Isaac.png" hp="6"
+          nameimage="playername_reborn.png"
+          portrait="playerportrait_reborn.png"
+          skinColor="-1"
+          birthright="Another chance"/>
+</players>
